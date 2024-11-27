@@ -1,6 +1,7 @@
-![Banner](https://github.com/username/repository/blob/main/assets/banner.png)
 ## Hi, I'm Ana! 👋  
 Welcome to my GitHub profile! 🚀  
+
+![Banner](https://github.com/Anapicazo16/Anapicazo16/raw/b80903bc5c55ac5f60ab8d7d2b0528ee4ba7ffa8/image.png)
 
 ### 🌟 About Me  
 💻 **Software Developer** with experience in **PHP**, **HTML**, **CSS**, **JavaScript**, and **SQL**.  
